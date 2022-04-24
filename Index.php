@@ -10,16 +10,14 @@
 
     <?php
     include("Layout/topBaner.php");
+    ?>
+    <?php
     include("Layout/header.php");
       ?>
-
-    <div id="test">       
-      
-    </div>
 
       <?php     
     include("Layout/footer.php");
      ?>
-     <script src="JS/script.js"></script> 
+    <script src="JS/script.js"></script> 
 </body>
 </html>
