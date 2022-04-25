@@ -10,12 +10,20 @@
 <body>
 
 <?php
-    include("Layout/topBaner.php");
+    include("Layout/topBanner.php");
     ?>
     <?php
     include("Layout/header.php");
       ?>
+<div>
 
+  <div style="width:100%;margin:0;padding:0;">
+    <?php
+    include("Layout/banner.php");
+    ?>
+  </div>
+
+</div>
       <?php     
     include("Layout/footer.php");
      ?>
